@@ -1,4 +1,4 @@
-# Dash App - Análise E-commerce
+Análise E-commerce - EBAC
 
 Este projeto é uma aplicação interativa feita com Dash e Plotly que apresenta:
 
